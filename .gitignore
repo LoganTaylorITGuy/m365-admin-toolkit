@@ -1,0 +1,10 @@
+testResults.xml
+coverage.xml
+*.csv
+*.log
+.DS_Store
+# Never commit auth material
+*.pfx
+*.key
+*.pem
+.env
